@@ -18,7 +18,7 @@ This readme accompanies the paper "Cystatin C and Cardiovascular Disease: A Mend
 
 Here you can find the R-script used to calculate power, `MR_Power_Binary.R`, which generates the graph below.
 
-![Power](20160419_MR_CystC_Power_Binary_ratio.pdf>)
+![Power](20160419_MR_CystC_Power_Binary_ratio.png>)
 
 
 #### Notes

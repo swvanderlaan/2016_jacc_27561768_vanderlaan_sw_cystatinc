@@ -1,5 +1,6 @@
 Cystatin C and Cardiovascular Disease: A Mendelian Randomization Study
 ===========================================================
+[![DOI](https://zenodo.org/badge/259758691.svg)](https://zenodo.org/badge/latestdoi/259758691)
 
 #### This readme
 This readme accompanies the paper "Cystatin C and Cardiovascular Disease: A Mendelian Randomization Study." by [Van der Laan S.W. *et al*. **JACC 2016**](https://www.sciencedirect.com/science/article/pii/S0735109716344382?via%3Dihub).
